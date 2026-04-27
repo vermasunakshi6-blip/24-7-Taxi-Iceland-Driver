@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "976004896608",
+    "firebase_url": "https://taxi-b3256-default-rtdb.firebaseio.com",
+    "project_id": "taxi-b3256",
+    "storage_bucket": "taxi-b3256.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976004896608:android:1630b118a8b1bfdd1db005",
+        "android_client_info": {
+          "package_name": "com.twentyfourseven.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1L-8AyqU8vrenrdPV952BPq4k8U2l2To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976004896608:android:71c6a70ca33157501db005",
+        "android_client_info": {
+          "package_name": "com.twentyfourseven.taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1L-8AyqU8vrenrdPV952BPq4k8U2l2To"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
